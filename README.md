@@ -37,9 +37,9 @@ Os dados do Funcionário consiste em:
 
 ## Vídeos do Workshop: :movie_camera:
 
-- [Aula 01 - Breve Introdução sobre MEAN]()
-- [Aula 02 - Preparação ao Ambiente de Desenvolvimento]()
-- [Aula 03 - Em Breve]()
+- [Aula 01 - Breve Introdução sobre MEAN](https://youtu.be/NJEZDV77bhQ)
+- [Aula 02 - Preparação ao Ambiente de Desenvolvimento](https://youtu.be/A327bvf5DLw)
+- [Aula 03 - Instalação do Angular 7 & Outras Dependências]()
 - [Aula 04 - Em Breve]()
 - [Aula 05 - Em Breve]()
 - [Aula 06 - Em Breve]()
