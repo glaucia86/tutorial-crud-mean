@@ -39,9 +39,9 @@ Os dados do Funcionário consiste em:
 
 - [Aula 01 - Breve Introdução sobre MEAN](https://youtu.be/NJEZDV77bhQ)
 - [Aula 02 - Preparação ao Ambiente de Desenvolvimento](https://youtu.be/A327bvf5DLw)
-- [Aula 03 - Instalação do Angular 7 & Outras Dependências]()
-- [Aula 04 - Em Breve]()
-- [Aula 05 - Em Breve]()
+- [Aula 03 - Instalação do Angular 7 & Outras Dependências](https://youtu.be/HtU3Wd4hX0c)
+- [Aula 04 - Criando os Componentes no Angular]()
+- [Aula 05 - Criando Navegação (NavBar) com Angular]()
 - [Aula 06 - Em Breve]()
 - [Aula 07 - Em Breve]()
 - [Aula 08 - Em Breve]()
