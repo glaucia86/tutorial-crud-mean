@@ -44,11 +44,16 @@ Os dados do Funcionário consiste em:
 - [Aula 05 - Criando Navegação (NavBar) com Angular](https://youtu.be/EqR8PPjXfvs)
 - [Aula 06 - Inclusão do Pacote: Angular 2 Slim Loading Bar](https://youtu.be/8GvG_jc10Qg)
 - [Aula 07 - Desenvolvendo os Eventos Router do Ng2 Slim na Aplicação](https://youtu.be/iHux3efFLAU)
-- [Aula 08 - Em Breve]()
+- [Aula 08 - Desenvolvimento do Form com Bootstrap na Aplicação](https://youtu.be/HzL46NrLYBM)
 - [Aula 09 - Em Breve]()
 - [Aula 10 - Em Breve]()
+- [Aula 11 - Em Breve]()
+- [Aula 12 - Em Breve]()
+- [Aula 13 - Em Breve]()
+- [Aula 14 - Em Breve]()
+- [Aula 15 - Em Breve]()
 
-## Executando a aplicação Localmente: ❗️
+## Executando a Aplicação Localmente: ❗️
 
 ### Executando a aplicação no lado do Front-End
 
