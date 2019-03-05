@@ -14,7 +14,8 @@ Os dados do Funcionário consiste em:
 
 + idFuncionario: int
 + nomeFuncionario: string
-+ profissao: string
++ cargo: string
++ numeroIdentificador: number
 
 ## Recursos Utilizados no Desenvolvimento da Aplicação 💻
 
@@ -45,7 +46,7 @@ Os dados do Funcionário consiste em:
 - [Aula 06 - Inclusão do Pacote: Angular 2 Slim Loading Bar](https://youtu.be/8GvG_jc10Qg)
 - [Aula 07 - Desenvolvendo os Eventos Router do Ng2 Slim na Aplicação](https://youtu.be/iHux3efFLAU)
 - [Aula 08 - Desenvolvimento do Form com Bootstrap na Aplicação](https://youtu.be/HzL46NrLYBM)
-- [Aula 09 - Em Breve]()
+- [Aula 09 - Desenvolvimento da Validação dos Forms]()
 - [Aula 10 - Em Breve]()
 - [Aula 11 - Em Breve]()
 - [Aula 12 - Em Breve]()
