@@ -1,30 +1,57 @@
 <div class="card">
   <div class="card-body">
-    <form>
+    <form [formGroup]="adicionarFuncionarioForm">
       <div class="col-md-6 col-md-offset-3">
+
         <!-- INÍCIO BLOCO: Nome do Funcionário -->
         <div class="form-group">
           <label>Nome</label>
-          <input type="text" class="form-control">
+          <input type="text" class="form-control" formControlName="nomeFuncionario">
+        </div>
+        <div *ngIf="adicionarFuncionarioForm.controls['nomeFuncionario'].invalid
+              && (adicionarFuncionarioForm.controls['nomeFuncionario'].dirty
+              || adicionarFuncionarioForm.controls['nomeFuncionario'].touched)"
+              class="alert alert-danger">
+          <div *ngIf="adicionarFuncionarioForm.controls['nomeFuncionario'].errors.required">
+            O campo 'Nome' é obrigatório.
+          </div>
         </div>
         <!-- FIM BLOCO: Nome do Funcionário -->
 
         <!-- INÍCIO BLOCO: Cargo/Profissão -->
         <div class="form-group">
           <label>Cargo</label>
-          <input type="text" class="form-control">
+          <input type="text" class="form-control" formControlName="cargo">
+        </div>
+        <div *ngIf="adicionarFuncionarioForm.controls['cargo'].invalid
+              && (adicionarFuncionarioForm.controls['cargo'].dirty
+              || adicionarFuncionarioForm.controls['cargo'].touched)"
+              class="alert alert-danger">
+          <div *ngIf="adicionarFuncionarioForm.controls['cargo'].errors.required">
+            O campo 'Cargo' é obrigatório.
+          </div>
         </div>
         <!-- FIM BLOCO: Cargo/Profissão -->
 
         <!-- INÍCIO BLOCO: Nome do Número Identificador -->
         <div class="form-group">
           <label>Número Identificador</label>
-          <input type="text" class="form-control">
+          <input type="text" class="form-control" formControlName="numeroIdentificador">
+        </div>
+        <div *ngIf="adicionarFuncionarioForm.controls['numeroIdentificador'].invalid
+              && (adicionarFuncionarioForm.controls['numeroIdentificador'].dirty
+              || adicionarFuncionarioForm.controls['numeroIdentificador'].touched)"
+              class="alert alert-danger">
+          <div *ngIf="adicionarFuncionarioForm.controls['numeroIdentificador'].errors.required">
+            O campo 'Número Identificador' é obrigatório.
+          </div>
         </div>
         <!-- FIM BLOCO: Número Identificador -->
 
         <div class="form-group">
-          <button type="submit" class="btn btn-primary">
+          <button type="submit"
+            class="btn btn-primary"
+            [disabled]="adicionarFuncionarioForm.pristine || adicionarFuncionarioForm.invalid">
             <fa name="plus"></fa> Funcionário
           </button>
         </div>
