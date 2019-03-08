@@ -12,7 +12,7 @@ Os dados do Funcionário consiste em:
 
 **Classe: Funcionario**
 
-+ idFuncionario: int
++ idFuncionario: guid
 + nomeFuncionario: string
 + cargo: string
 + numeroIdentificador: number
@@ -38,6 +38,7 @@ Os dados do Funcionário consiste em:
 
 ## Vídeos do Workshop: :movie_camera:
 
+### Desenvolvimento do Front-End
 - [Aula 01 - Breve Introdução sobre MEAN](https://youtu.be/NJEZDV77bhQ)
 - [Aula 02 - Preparação ao Ambiente de Desenvolvimento](https://youtu.be/A327bvf5DLw)
 - [Aula 03 - Instalação do Angular 7 & Outras Dependências](https://youtu.be/HtU3Wd4hX0c)
@@ -46,9 +47,11 @@ Os dados do Funcionário consiste em:
 - [Aula 06 - Inclusão do Pacote: Angular 2 Slim Loading Bar](https://youtu.be/8GvG_jc10Qg)
 - [Aula 07 - Desenvolvendo os Eventos Router do Ng2 Slim na Aplicação](https://youtu.be/iHux3efFLAU)
 - [Aula 08 - Desenvolvimento do Form com Bootstrap na Aplicação](https://youtu.be/HzL46NrLYBM)
-- [Aula 09 - Desenvolvimento da Validação dos Forms]()
-- [Aula 10 - Em Breve]()
+- [Aula 09 - Desenvolvimento da Validação dos Forms](https://youtu.be/zgU9O0wn31E)
+- [Aula 10 - Criação da Classe Modelo & Início Desenvolvimento do HttpClient](https://youtu.be/2TwfCVIYHQ8)
 - [Aula 11 - Em Breve]()
+
+### Desenvolvimento do Back-End
 - [Aula 12 - Em Breve]()
 - [Aula 13 - Em Breve]()
 - [Aula 14 - Em Breve]()
