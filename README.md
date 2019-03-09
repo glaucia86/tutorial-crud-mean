@@ -12,7 +12,7 @@ Os dados do Funcionário consiste em:
 
 **Classe: Funcionario**
 
-+ idFuncionario: guid
++ idFuncionario: (number - guid gerado pelo MongoDb)
 + nomeFuncionario: string
 + cargo: string
 + numeroIdentificador: number
@@ -34,7 +34,7 @@ Os dados do Funcionário consiste em:
 - O que iremos Desenvolver
 - Preparação ao Ambiente de Desenvolvimento
 - Desenvolvimento da Aplicação
-- Palavras & Considerações Finais
+- Considerações Finais
 
 ## Vídeos do Workshop: :movie_camera:
 
