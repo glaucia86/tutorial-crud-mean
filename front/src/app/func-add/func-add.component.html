@@ -49,7 +49,7 @@
         <!-- FIM BLOCO: Número Identificador -->
 
         <div class="form-group">
-          <button type="submit"
+          <button (click)="adicionarFuncionario(nomeFuncionario.value, cargo.value, numeroIdentificador.value)"
             class="btn btn-primary"
             [disabled]="adicionarFuncionarioForm.pristine || adicionarFuncionarioForm.invalid">
             <fa name="plus"></fa> Funcionário

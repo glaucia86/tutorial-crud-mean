@@ -27,7 +27,6 @@ Os dados do Funcionário consiste em:
 - Boostrap 3/4 **[DOWNLOAD AQUI](https://getbootstrap.com/docs/3.3/)**
 - Cadastro no Site Azure **[AQUI](http://bit.ly/2TL26DW)**
 
-
 ## Ementa do Workshop: :pencil2:
 
 - Breve Introdução sobre MEAN
@@ -49,13 +48,14 @@ Os dados do Funcionário consiste em:
 - [Aula 08 - Desenvolvimento do Form com Bootstrap na Aplicação](https://youtu.be/HzL46NrLYBM)
 - [Aula 09 - Desenvolvimento da Validação dos Forms](https://youtu.be/zgU9O0wn31E)
 - [Aula 10 - Criação da Classe Modelo & Início Desenvolvimento do HttpClient](https://youtu.be/Px0AzBrOQYg)
-- [Aula 11 - Em Breve]()
+- [Aula 11 - Correções Significativas no Front-End]()
+- [Aula 12 - Em Breve]()
 
 ### Desenvolvimento do Back-End
-- [Aula 12 - Em Breve]()
 - [Aula 13 - Em Breve]()
 - [Aula 14 - Em Breve]()
 - [Aula 15 - Em Breve]()
+- [Aula 16 - Em Breve]()
 
 ## Executando a Aplicação Localmente: ❗️
 
@@ -88,6 +88,44 @@ Depois bastam abrir o browser em **localhost:4200** (porta padrão de uma aplica
 ```
 > npm run dev
 ```
+
+## Atualização Limpa para a versão atual do Angular 7:
+
+Executar os passos abaixo:
+
+```
+> npm cache verify
+```
+
+```
+> npm install -g @angular/cli?
+``` 
+
+2) Se sim e não resolveu o problema. Tenta fazer o seguinte:
+
+```
+> npm uninstall -g angular-cli (abrindo o Power Shell como Administrador)
+> npm cache verify
+> npm cache clean
+> npm install -g @angular/cli@latest
+> ng --version
+```
+
+3) Se mesmo assim depois de executar os passos acima, com o Power Shell executando como Administrador e você não conseguir atualizar para o Angular 7, execute o seguinte comando:
+
+```
+> ng update @angular/cli
+> ng --version
+```
+
+4) Se tudo der certo (numa dessas 3 maneiras sempre vai dar). Sempre execute os comandos:
+
+```
+> npm cache verify
+> npm cache clean (para versões antigas do npm)
+```
+
+E vòilá!
 
 ## Links e Recursos Adicionais:
 
