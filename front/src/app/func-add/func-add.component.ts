@@ -31,7 +31,7 @@ export class FuncAddComponent implements OnInit {
    * Método responsável por adicionar um novo 'Funcionário' com ação do btn 'Adicionar Funcionário':
    */
   adicionarFuncionario(nomeFuncionario, cargo, numeroIdentificador) {
-    this.funcionarioService.adicionarFuncionario(nomeFuncionario, cargo, numeroIdentificador)
+    this.funcionarioService.adicionarFuncionario(nomeFuncionario, cargo, numeroIdentificador);
   }
 
   ngOnInit() {
