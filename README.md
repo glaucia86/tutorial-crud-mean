@@ -89,52 +89,12 @@ Depois bastam abrir o browser em **localhost:4200** (porta padrão de uma aplica
 > npm run dev
 ```
 
-<<<<<<< HEAD
 ## Links e Recursos Adicionais:
 
 * **[Depurando Aplicação em Angular](http://bit.ly/2JTp1gB)**
 * **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/2TP4FVg)**
 * **[Deploy Site Estático Azure](http://bit.ly/2CMe8qY)**
 * **[Free Trial Azure](http://bit.ly/2TL26DW)**
-=======
-## Como Atualizar para o Angular 7?! 🔥
-
-Se você já tiver instalado em sua máquina alguma versão anterior do Angular (>7), porém não está conseguindo ou tendo dificuldades para atualizar para o Angular 7, tente seguir os seguintes passos abaixo:
-
-```
-> npm cache verify
-```
-
-```
-> npm install -g @angular/cli?
-``` 
-
-2) Se sim e não resolveu o problema. Tenta fazer o seguinte:
-
-```
-> npm uninstall -g angular-cli (abrindo o Power Shell como Administrador)
-> npm cache verify
-> npm cache clean
-> npm install -g @angular/cli@latest
-> ng --version
-```
-
-3) Se mesmo assim depois de executar os passos acima, com o Power Shell executando como Administrador e você não conseguir atualizar para o Angular 7, execute o seguinte comando:
-
-```
-> ng update @angular/cli
-> ng --version
-```
-
-4) Se tudo der certo (numa dessas 3 maneiras sempre vai dar). Sempre execute os comandos:
-
-```
-> npm cache verify
-> npm cache clean (para versões antigas do npm)
-```
-
-E vòilá. A versão do Angular na sua máquina estará atualizada! 😍
->>>>>>> 9c38c222a8eb7eb5462d80bd717f07c4c198bccf
 
 ## Dúvidas?! ❓
 
