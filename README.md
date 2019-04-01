@@ -48,14 +48,16 @@ Os dados do Funcionário consiste em:
 - [Aula 08 - Desenvolvimento do Form com Bootstrap na Aplicação](https://youtu.be/HzL46NrLYBM)
 - [Aula 09 - Desenvolvimento da Validação dos Forms](https://youtu.be/zgU9O0wn31E)
 - [Aula 10 - Criação da Classe Modelo & Início Desenvolvimento do HttpClient](https://youtu.be/Px0AzBrOQYg)
-- [Aula 11 - Correções Significativas no Front-End]()
-- [Aula 12 - Em Breve]()
+- [Aula 11 - Correções Significativas no Front-End](https://youtu.be/yCl_GW3-aD4)
+- [Aula 12 - Desenvolvimento da Lógica do Btn 'Adicionar Funcionário'](https://youtu.be/RWY4CG-7NYA)
 
 ### Desenvolvimento do Back-End
 - [Aula 13 - Em Breve]()
 - [Aula 14 - Em Breve]()
 - [Aula 15 - Em Breve]()
 - [Aula 16 - Em Breve]()
+
+### Deploy Aplicação: (Em Breve)
 
 ## Executando a Aplicação Localmente: ❗️
 
