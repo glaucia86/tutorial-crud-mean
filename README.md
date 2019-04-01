@@ -1,4 +1,4 @@
-# Tutorial CRUD MEAN com Angular 7
+# Tutorial CRUD MEAN com Angular 7 by Glaucia Lemos
 
 [![Tutorial-MEAN.jpg](https://i.postimg.cc/d1nGG2Bg/Tutorial-MEAN.jpg)](https://postimg.cc/njjsJQN1)
 
@@ -19,13 +19,13 @@ Os dados do Funcionário consiste em:
 
 ## Recursos Utilizados no Desenvolvimento da Aplicação 💻
 
-- Visual Studio Code **[DOWNLOAD AQUI](https://code.visualstudio.com/)**
+- Visual Studio Code **[DOWNLOAD AQUI](http://bit.ly/2OFVUvM)**
 - Node.js **[DOWNLOAD AQUI](https://nodejs.org/en/)**
 - Angular CLI ~ 7.2.2 **[DOWNLOAD AQUI](https://angular.io/)**
 - Mongodb Community Server **[DOWNLOAD AQUI](https://www.mongodb.com/download-center/community)**
 - MongodB Compass GUI **[DOWNLOAD AQUI](https://www.mongodb.com/download-center/compass)**
 - Boostrap 3/4 **[DOWNLOAD AQUI](https://getbootstrap.com/docs/3.3/)**
-- Cadastro no Site Azure **[AQUI](https://azure.microsoft.com/pt-br/features/azure-portal/)**
+- Cadastro no Site Azure **[AQUI](http://bit.ly/2TL26DW)**
 
 
 ## Ementa do Workshop: :pencil2:
@@ -48,7 +48,7 @@ Os dados do Funcionário consiste em:
 - [Aula 07 - Desenvolvendo os Eventos Router do Ng2 Slim na Aplicação](https://youtu.be/iHux3efFLAU)
 - [Aula 08 - Desenvolvimento do Form com Bootstrap na Aplicação](https://youtu.be/HzL46NrLYBM)
 - [Aula 09 - Desenvolvimento da Validação dos Forms](https://youtu.be/zgU9O0wn31E)
-- [Aula 10 - Criação da Classe Modelo & Início Desenvolvimento do HttpClient](https://youtu.be/2TwfCVIYHQ8)
+- [Aula 10 - Criação da Classe Modelo & Início Desenvolvimento do HttpClient](https://youtu.be/Px0AzBrOQYg)
 - [Aula 11 - Em Breve]()
 
 ### Desenvolvimento do Back-End
@@ -88,6 +88,13 @@ Depois bastam abrir o browser em **localhost:4200** (porta padrão de uma aplica
 ```
 > npm run dev
 ```
+
+## Links e Recursos Adicionais:
+
+* **[Depurando Aplicação em Angular](http://bit.ly/2JTp1gB)**
+* **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/2TP4FVg)**
+* **[Deploy Site Estático Azure](http://bit.ly/2CMe8qY)**
+* **[Free Trial Azure](http://bit.ly/2TL26DW)**
 
 ## Dúvidas?! ❓
 
