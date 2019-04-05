@@ -19,13 +19,13 @@ Os dados do Funcionário consiste em:
 
 ## Recursos Utilizados no Desenvolvimento da Aplicação 💻
 
-- Visual Studio Code **[DOWNLOAD AQUI](http://bit.ly/2OFVUvM)**
+- Visual Studio Code **[DOWNLOAD AQUI](http://bit.ly/2IfNp9F)**
 - Node.js **[DOWNLOAD AQUI](https://nodejs.org/en/)**
 - Angular CLI ~ 7.2.2 **[DOWNLOAD AQUI](https://angular.io/)**
 - Mongodb Community Server **[DOWNLOAD AQUI](https://www.mongodb.com/download-center/community)**
 - MongodB Compass GUI **[DOWNLOAD AQUI](https://www.mongodb.com/download-center/compass)**
 - Boostrap 3/4 **[DOWNLOAD AQUI](https://getbootstrap.com/docs/3.3/)**
-- Cadastro no Site Azure **[AQUI](http://bit.ly/2TL26DW)**
+- Cadastro no Site Azure **[AQUI](http://bit.ly/2WP5hMJ)**
 
 ## Ementa do Workshop: :pencil2:
 
@@ -132,10 +132,10 @@ E vòilá!
 
 ## Links e Recursos Adicionais:
 
-* **[Depurando Aplicação em Angular](http://bit.ly/2JTp1gB)**
-* **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/2TP4FVg)**
-* **[Deploy Site Estático Azure](http://bit.ly/2CMe8qY)**
-* **[Free Trial Azure](http://bit.ly/2TL26DW)**
+* **[Depurando Aplicação em Angular](http://bit.ly/2G1oBAI)**
+* **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/2uO4I9P)**
+* **[Deploy Site Estático Azure](http://bit.ly/2CXzKR7)**
+* **[Free Trial Azure](http://bit.ly/2WP5hMJ)**
 
 ## Dúvidas?! ❓
 
