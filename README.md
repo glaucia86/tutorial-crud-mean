@@ -60,7 +60,7 @@ Os dados do Funcionário consiste em:
 - [Aula 19 - Em Breve]()
 - [Aula 20 - Em Breve]()
 
-### Deploy Aplicação (Em Breve)
+### Hospedagem & Deploy da Aplicação no Azure (Em Breve)
 - [Aula 21 - Em Breve]()
 - [Aula 22 - Em Breve]()
 - [Aula 23 - Em Breve]()
