@@ -56,9 +56,17 @@ Os dados do Funcionário consiste em:
 - [Aula 14 - Em Breve]()
 - [Aula 15 - Em Breve]()
 - [Aula 16 - Em Breve]()
+- [Aula 18 - Em Breve]()
+- [Aula 19 - Em Breve]()
+- [Aula 20 - Em Breve]()
 
-### Deploy Aplicação: (Em Breve)
-- [Aula 17 - Em Breve]()
+### Deploy Aplicação (Em Breve)
+- [Aula 21 - Em Breve]()
+- [Aula 22 - Em Breve]()
+- [Aula 23 - Em Breve]()
+- [Aula 24 - Em Breve]()
+- [Aula 25 - Em Breve]()
+
 
 ## Executando a Aplicação Localmente ❗️
 
