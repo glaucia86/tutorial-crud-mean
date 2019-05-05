@@ -59,7 +59,7 @@ Os dados do Funcionário consiste em:
 
 ### Deploy Aplicação: (Em Breve)
 
-## Executando a Aplicação Localmente: ❗️
+## Executando a Aplicação Localmente ❗️
 
 ### Executando a aplicação no lado do Front-End
 
