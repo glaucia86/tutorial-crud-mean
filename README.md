@@ -67,7 +67,6 @@ Os dados do Funcionário consiste em:
 - [Aula 24 - Em Breve]()
 - [Aula 25 - Em Breve]()
 
-
 ## Executando a Aplicação Localmente ❗️
 
 ### Executando a aplicação no lado do Front-End
