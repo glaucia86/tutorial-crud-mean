@@ -103,6 +103,8 @@ Depois bastam abrir o browser em **localhost:4200** (porta padrão de uma aplica
 
 Executar os passos abaixo:
 
+1) Executar os comandos abaixo:
+
 ```
 > npm cache verify
 ```
