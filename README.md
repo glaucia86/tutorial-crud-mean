@@ -113,7 +113,7 @@ Executar os passos abaixo:
 > npm install -g @angular/cli?
 ``` 
 
-2) Se sim e não resolveu o problema. Tenta fazer o seguinte:
+2) Porém, se executou os comandos acima e não resolveu o problema, tenta executar os seguintes comandos abaixo:
 
 ```
 > npm uninstall -g angular-cli (abrindo o Power Shell como Administrador)
