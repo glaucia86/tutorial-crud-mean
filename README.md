@@ -123,7 +123,7 @@ Executar os passos abaixo:
 > ng --version
 ```
 
-3) Se mesmo assim depois de executar os passos acima, com o Power Shell executando como Administrador e você não conseguir atualizar para o Angular 7, execute o seguinte comando:
+3) Se mesmo assim depois de executar os passos acima, com o Power Shell executando como **Administrador** e você não conseguiu atualizar para o Angular 7, execute os seguintes comandos abaixo:
 
 ```
 > ng update @angular/cli
