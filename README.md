@@ -130,7 +130,7 @@ Executar os passos abaixo:
 > ng --version
 ```
 
-4) Se tudo der certo (numa dessas 3 maneiras sempre vai dar). Sempre execute os comandos:
+4) Se tudo der certo (numa dessas 3 maneiras sempre vai dar). Sempre execute os comandos abaixo:
 
 ```
 > npm cache verify
