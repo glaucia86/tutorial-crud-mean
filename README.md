@@ -139,11 +139,11 @@ Executar os passos abaixo:
 
 E vòilá!
 
-## Links e Recursos Adicionais:
+## Links e Recursos Adicionais
 
 * **[Depurando Aplicação em Angular](http://bit.ly/2G1oBAI)**
-* **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/2uO4I9P)**
-* **[Deploy Site Estático Azure](http://bit.ly/2CXzKR7)**
+* **[Tutorial Hospedando Aplicativo Web Azure](http://bit.ly/2uO4I9P)**
+* **[Hospede & Faça Deploy de Site Estático no Azure](http://bit.ly/2CXzKR7)**
 * **[Free Trial Azure](http://bit.ly/2WP5hMJ)**
 
 ## Dúvidas?! ❓
