@@ -137,7 +137,7 @@ Executar os passos abaixo:
 > npm cache clean (para versões antigas do npm)
 ```
 
-E vòilá!
+E vòilá! :heart: :heart:
 
 ## Links e Recursos Adicionais
 
