@@ -148,6 +148,6 @@ E vòilá! :heart: :heart:
 
 ## Dúvidas?! ❓
 
-Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente bastam criar uma **[ISSUE AQUI](https://github.com/glaucia86/tutorial-crud-mean/issues)** no GitHub que estarei respondendo a vocês!! :heart: :heart: :heart: :blush:
+Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o ambiente em suas máquinas, por favor, bastam criar uma **[ISSUE AQUI](https://github.com/glaucia86/tutorial-crud-mean/issues)** no GitHub que estarei respondendo a vocês ASAP!! :heart: :heart: :heart: :blush:
 
 **(documentação em desenvolvimento)**
