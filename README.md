@@ -52,8 +52,8 @@ Os dados do Funcionário consiste em:
 - [Aula 12 - Desenvolvimento da Lógica do Btn 'Adicionar Funcionário'](https://youtu.be/RWY4CG-7NYA)
 
 ### Desenvolvimento do Back-End
-- [Aula 13 - Configuração inicial do Back-End - Parte I]()
-- [Aula 14 - Configuração inicial do Back-End - Parte II]()
+- [Aula 13 - Configuração inicial do Back-End - Parte I](https://youtu.be/5ahj4TM3GxQ)
+- [Aula 14 - Configuração inicial do Back-End - Parte II](https://youtu.be/D9L6yYaQY2o)
 - [Aula 15 - Em Breve]()
 - [Aula 16 - Em Breve]()
 - [Aula 18 - Em Breve]()
