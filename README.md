@@ -37,7 +37,7 @@ Os dados do Funcionário consiste em:
 
 ## Vídeos do Workshop: :movie_camera:
 
-### Desenvolvimento do Front-End
+### Módulo 1 - Desenvolvimento do Front-End
 - [Aula 01 - Breve Introdução sobre MEAN](https://youtu.be/NJEZDV77bhQ)
 - [Aula 02 - Preparação ao Ambiente de Desenvolvimento](https://youtu.be/A327bvf5DLw)
 - [Aula 03 - Instalação do Angular 7 & Outras Dependências](https://youtu.be/HtU3Wd4hX0c)
@@ -51,7 +51,7 @@ Os dados do Funcionário consiste em:
 - [Aula 11 - Correções Significativas no Front-End](https://youtu.be/yCl_GW3-aD4)
 - [Aula 12 - Desenvolvimento da Lógica do Btn 'Adicionar Funcionário'](https://youtu.be/RWY4CG-7NYA)
 
-### Desenvolvimento do Back-End
+### Módulo 2 - Desenvolvimento do Back-End
 - [Aula 13 - Configuração inicial do Back-End - Parte I](https://youtu.be/5ahj4TM3GxQ)
 - [Aula 14 - Configuração inicial do Back-End - Parte II](https://youtu.be/D9L6yYaQY2o)
 - [Aula 15 - Em Breve]()
@@ -60,7 +60,7 @@ Os dados do Funcionário consiste em:
 - [Aula 19 - Em Breve]()
 - [Aula 20 - Em Breve]()
 
-### Hospedagem & Deploy da Aplicação no Azure (Em Breve)
+### Módulo 3 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
 - [Aula 21 - Em Breve]()
 - [Aula 22 - Em Breve]()
 - [Aula 23 - Em Breve]()
