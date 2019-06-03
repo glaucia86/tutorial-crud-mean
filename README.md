@@ -1,4 +1,4 @@
-# Tutorial CRUD MEAN com Angular 7 by Glaucia Lemos
+# Tutorial CRUD MEAN com Angular 7 & Azure App Service by Glaucia Lemos
 
 [![Tutorial-MEAN.jpg](https://i.postimg.cc/d1nGG2Bg/Tutorial-MEAN.jpg)](https://postimg.cc/njjsJQN1)
 
