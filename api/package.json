@@ -10,10 +10,23 @@
     "start": "node server.js"
   },
   "keywords": [
-    ""
+    "node.js",
+    "javascript",
+    "mongoose",
+    "mongodb",
+    "azure",
+    "app-service",
+    "cosmosdb",
+    "angular",
+    "express",
+    "mean-app"
   ],
-  "author": "",
+  "author": "Glaucia Lemos",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/tutorial-crud-mean/issues"
+  },
+  "homepage": "https://github.com/glaucia86/tutorial-crud-mean#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
