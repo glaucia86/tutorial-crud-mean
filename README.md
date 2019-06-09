@@ -1,4 +1,4 @@
-# Tutorial CRUD MEAN com Angular 7 & Azure App Service by Glaucia Lemos
+# Tutorial CRUD MEAN com Angular 7/8 & Azure App Service by Glaucia Lemos
 
 [![Tutorial-MEAN.jpg](https://i.postimg.cc/d1nGG2Bg/Tutorial-MEAN.jpg)](https://postimg.cc/njjsJQN1)
 
@@ -26,6 +26,7 @@ Os dados do Funcionário consiste em:
 - MongodB Compass GUI **[DOWNLOAD AQUI](https://www.mongodb.com/download-center/compass)**
 - Boostrap 3/4 **[DOWNLOAD AQUI](https://getbootstrap.com/docs/3.3/)**
 - Cadastro no Site Azure **[AQUI](http://bit.ly/2WP5hMJ)**
+- Postman **[DOWNLOAD AQUI](https://www.getpostman.com/)**
 
 ## Ementa do Workshop: :pencil2:
 
@@ -54,7 +55,7 @@ Os dados do Funcionário consiste em:
 ### Módulo 2 - Desenvolvimento do Back-End
 - [Aula 13 - Configuração inicial do Back-End - Parte I](https://youtu.be/5ahj4TM3GxQ)
 - [Aula 14 - Configuração inicial do Back-End - Parte II](https://youtu.be/D9L6yYaQY2o)
-- [Aula 15 - Em Breve]()
+- [Aula 15 - Desenvolvimento do arquivo 'server.js'](https://youtu.be/3a7fquaCwlQ)
 - [Aula 16 - Em Breve]()
 - [Aula 18 - Em Breve]()
 - [Aula 19 - Em Breve]()
@@ -96,8 +97,10 @@ Depois bastam abrir o browser em **localhost:4200** (porta padrão de uma aplica
 2) Depois executar o seguinte comando para executar a aplicação (dentro da pasta `api`):
 
 ```
-> npm run dev
+> nodemon
 ```
+
+Depois bastam abrir o postamn em **localhost:8000** e testar as requisições
 
 ## Atualização Limpa para a versão atual do Angular 7:
 
