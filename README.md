@@ -56,7 +56,7 @@ Os dados do Funcionário consiste em:
 - [Aula 13 - Configuração inicial do Back-End - Parte I](https://youtu.be/5ahj4TM3GxQ)
 - [Aula 14 - Configuração inicial do Back-End - Parte II](https://youtu.be/D9L6yYaQY2o)
 - [Aula 15 - Desenvolvimento do arquivo 'server.js'](https://youtu.be/3a7fquaCwlQ)
-- [Aula 16 - Em Breve]()
+- [Aula 16 - Refatorando o projeto no Back-End](https://youtu.be/ud-h8nIj9X0)
 - [Aula 18 - Em Breve]()
 - [Aula 19 - Em Breve]()
 - [Aula 20 - Em Breve]()
