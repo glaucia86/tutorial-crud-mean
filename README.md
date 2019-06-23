@@ -33,7 +33,7 @@ Os dados do Funcionário consiste em:
 - Breve Introdução sobre MEAN
 - O que iremos Desenvolver
 - Preparação ao Ambiente de Desenvolvimento
-- Desenvolvimento da Aplicação
+- Desenvolvimento da Aplicação (Front-End & Back-End)
 - Considerações Finais
 
 ## Vídeos do Workshop: :movie_camera:
@@ -58,7 +58,7 @@ Os dados do Funcionário consiste em:
 - [Aula 15 - Desenvolvimento do arquivo 'server.js'](https://youtu.be/3a7fquaCwlQ)
 - [Aula 16 - Refatorando o projeto no Back-End](https://youtu.be/ud-h8nIj9X0)
 - [Aula 17 - Atualização do v.7 para v.8 do Angular CLI](https://youtu.be/seJliDMpRd0)
-- [Aula 18 - Em Breve]()
+- [Aula 18 - Criação das Connections String na api: MongoDb & CosmosDb](https://youtu.be/LEXJK983WTM)
 - [Aula 19 - Em Breve]()
 - [Aula 20 - Em Breve]()
 
@@ -145,10 +145,15 @@ E vòilá! :heart: :heart:
 
 ## Links e Recursos Adicionais
 
-* **[Depurando Aplicação em Angular](http://bit.ly/2G1oBAI)**
-* **[Tutorial Hospedando Aplicativo Web Azure](http://bit.ly/2uO4I9P)**
-* **[Hospede & Faça Deploy de Site Estático no Azure](http://bit.ly/2CXzKR7)**
-* **[Free Trial Azure](http://bit.ly/2WP5hMJ)**
+✅ **[Depurando Aplicação em Angular](http://bit.ly/2G1oBAI)**
+✅ **[Tutorial Hospedando Aplicativo Web Azure](http://bit.ly/2uO4I9P)**
+✅ **[Hospede & Faça Deploy de Site Estático no Azure](http://bit.ly/2CXzKR7)**
+✅ **[Free Trial Azure](http://bit.ly/2WP5hMJ)**
+✅ **[Azure for Students](https://aka.ms/AA5f3zk)**
+✅ **[CosmosDb](https://aka.ms/AA5f3zj)**
+✅ **[Tutorial Criando um aplicativo Node.js e MongoDB no Azure](https://aka.ms/AA5f3zh)**
+✅ **[Tutorial 1: Compilando um aplicativo Web do Node.js usando Azure Cosmos DB](https://aka.ms/AA5eq4r)**
+✅ **[Tutorial 2: Migração offline do MongoDB para o Azure Cosmos DB](https://aka.ms/AA5eq4s)**
 
 ## Dúvidas?! ❓
 
