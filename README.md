@@ -145,15 +145,15 @@ E vòilá! :heart: :heart:
 
 ## Links e Recursos Adicionais
 
-✅ **[Depurando Aplicação em Angular](http://bit.ly/2G1oBAI)**
-✅ **[Tutorial Hospedando Aplicativo Web Azure](http://bit.ly/2uO4I9P)**
-✅ **[Hospede & Faça Deploy de Site Estático no Azure](http://bit.ly/2CXzKR7)**
-✅ **[Free Trial Azure](http://bit.ly/2WP5hMJ)**
-✅ **[Azure for Students](https://aka.ms/AA5f3zk)**
-✅ **[CosmosDb](https://aka.ms/AA5f3zj)**
-✅ **[Tutorial Criando um aplicativo Node.js e MongoDB no Azure](https://aka.ms/AA5f3zh)**
-✅ **[Tutorial 1: Compilando um aplicativo Web do Node.js usando Azure Cosmos DB](https://aka.ms/AA5eq4r)**
-✅ **[Tutorial 2: Migração offline do MongoDB para o Azure Cosmos DB](https://aka.ms/AA5eq4s)**
+- ✅ **[Depurando Aplicação em Angular](http://bit.ly/2G1oBAI)**
+- ✅ **[Tutorial Hospedando Aplicativo Web Azure](http://bit.ly/2uO4I9P)**
+- ✅ **[Hospede & Faça Deploy de Site Estático no Azure](http://bit.ly/2CXzKR7)**
+- ✅ **[Free Trial Azure](http://bit.ly/2WP5hMJ)**
+- ✅ **[Azure for Students](https://aka.ms/AA5f3zk)**
+- ✅ **[CosmosDb](https://aka.ms/AA5f3zj)**
+- ✅ **[Tutorial Criando um aplicativo Node.js e MongoDB no Azure](https://aka.ms/AA5f3zh)**
+- ✅ **[Tutorial 1: Compilando um aplicativo Web do Node.js usando Azure Cosmos DB](https://aka.ms/AA5eq4r)**
+- ✅ **[Tutorial 2: Migração offline do MongoDB para o Azure Cosmos DB](https://aka.ms/AA5eq4s)**
 
 ## Dúvidas?! ❓
 
