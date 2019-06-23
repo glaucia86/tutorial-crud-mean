@@ -57,7 +57,7 @@ Os dados do Funcionário consiste em:
 - [Aula 14 - Configuração inicial do Back-End - Parte II](https://youtu.be/D9L6yYaQY2o)
 - [Aula 15 - Desenvolvimento do arquivo 'server.js'](https://youtu.be/3a7fquaCwlQ)
 - [Aula 16 - Refatorando o projeto no Back-End](https://youtu.be/ud-h8nIj9X0)
-- [Aula 17 - Atualização do v.7 para v.8 do Angular CLI]()
+- [Aula 17 - Atualização do v.7 para v.8 do Angular CLI](https://youtu.be/seJliDMpRd0)
 - [Aula 18 - Em Breve]()
 - [Aula 19 - Em Breve]()
 - [Aula 20 - Em Breve]()
