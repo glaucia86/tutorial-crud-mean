@@ -4,3 +4,30 @@
  * Data: 02/06/2019
  * Author: Glaucia Lemos
  */
+
+/**
+ * Classe: Funcionario
+ *
+ * id: (Number - guid gerado pelo MongoDb)
+ * nomeFuncionario: String
+ * cargo: String
+ * numeroIdentificador: Number
+ *
+ */
+
+const mongoose = require('mongoose');
+
+// const Schema = mongoose.Schema;
+const { Schema } = mongoose;
+
+const funcionarioSchema = new Schema({
+  nomeFuncionario: { type: String, required: true, maxlength: 50 },
+  cargo: { type: String, required: true, maxlength: 30 },
+  numeroIdentificador: { type: Number, required: true, max: 5 },
+}, {
+  collection: 'funcionario',
+});
+
+const Funcionario = mongoose.model('Funcionario', funcionarioSchema);
+
+module.exports = Funcionario;
