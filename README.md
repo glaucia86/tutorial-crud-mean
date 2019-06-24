@@ -58,16 +58,19 @@ Os dados do Funcionário consiste em:
 - [Aula 15 - Desenvolvimento do arquivo 'server.js'](https://youtu.be/3a7fquaCwlQ)
 - [Aula 16 - Refatorando o projeto no Back-End](https://youtu.be/ud-h8nIj9X0)
 - [Aula 17 - Atualização do v.7 para v.8 do Angular CLI](https://youtu.be/seJliDMpRd0)
-- [Aula 18 - Criação das Connections String na api: MongoDb & CosmosDb](https://youtu.be/LEXJK983WTM)
-- [Aula 19 - Em Breve]()
+- [Aula 18 - Criação das Connections Strings na api: MongoDb & CosmosDb](https://youtu.be/LEXJK983WTM)
+- [Aula 19 - Desenvolvimento das Rotas da api 'Funcionario'](https://youtu.be/FQP4a_lzDck)
 - [Aula 20 - Em Breve]()
-
-### Módulo 3 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
 - [Aula 21 - Em Breve]()
 - [Aula 22 - Em Breve]()
 - [Aula 23 - Em Breve]()
 - [Aula 24 - Em Breve]()
+
+### Módulo 3 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
 - [Aula 25 - Em Breve]()
+- [Aula 26 - Em Breve]()
+- [Aula 27 - Em Breve]()
+- [Aula 28 - Em Breve]()
 
 ## Executando a Aplicação Localmente ❗️
 
