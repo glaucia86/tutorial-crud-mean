@@ -57,3 +57,31 @@ exports.findById = (req, res) => {
       res.status(500).send({ message: 'Erro ao selecionar os(as) Funcionários(as) || err.message' });
     });
 };
+
+// ==> Método responsável por atualizar 'Funcionário' pelo 'Id':
+exports.update = (req, res) => {
+  // Validar os campos
+  if (!req.body.nomeFuncionario) {
+    return res.status(400).send({ message: 'Os campos não podem ser vazios! ' });
+  }
+
+  // Encontrar 'Id' do Funcionário e depois atualizar os dados via 'request':
+  Funcionario.findByIdAndUpdate(req.params.id, {
+    nomeFuncionario: req.body.nomeFuncionario,
+    cargo: req.body.cargo,
+    numeroIdentificador: req.body.numeroIdentificador,
+  }, { new: true })
+    .then((funcionario) => {
+      if (!funcionario) {
+        res.status(404).send({ message: `Funcionário(a) não encontrado(a) ${req.params.id}` });
+      }
+
+      res.status(200).send({ message: 'Funcionário(a) atualizado(a) com sucesso!', funcionario });
+    }).catch((err) => {
+      if (err.kind === 'ObjectId') {
+        return res.status(404).send({ message: `Erro ao encontrar o Id do Funcionário(a) ${req.params.id}` });
+      }
+
+      res.status(500).send({ message: `Erro ao atualizar os dados do(a) Funcionário(a) ${req.params.id}` });
+    });
+};

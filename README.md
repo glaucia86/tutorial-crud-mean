@@ -63,7 +63,7 @@ Os dados do Funcionário consiste em:
 - [Aula 20 - Desenvolvimento da Rota 'POST' da api](https://youtu.be/Sg62scoF-0U)
 - [Aula 21 - Desenvolvimento da Rota 'GET' da api](https://youtu.be/x4V2Q6uGfEI)
 - [Aula 22 - Desenvolvimento da Rota 'GetById' da api](https://youtu.be/8IMAVkDxGoE)
-- [Aula 23 - Em Breve]()
+- [Aula 23 - Desenvolvimento da Rota 'Update' da api](https://youtu.be/xRQI_jDCMVU)
 - [Aula 24 - Em Breve]()
 
 ### Módulo 3 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
