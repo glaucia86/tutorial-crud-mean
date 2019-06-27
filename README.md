@@ -62,7 +62,7 @@ Os dados do Funcionário consiste em:
 - [Aula 19 - Desenvolvimento das Rotas da api 'Funcionario'](https://youtu.be/FQP4a_lzDck)
 - [Aula 20 - Desenvolvimento da Rota 'POST' da api](https://youtu.be/Sg62scoF-0U)
 - [Aula 21 - Desenvolvimento da Rota 'GET' da api](https://youtu.be/x4V2Q6uGfEI)
-- [Aula 22 - Em Breve]()
+- [Aula 22 - Desenvolvimento da Rota 'GetById' da api](https://youtu.be/8IMAVkDxGoE)
 - [Aula 23 - Em Breve]()
 - [Aula 24 - Em Breve]()
 

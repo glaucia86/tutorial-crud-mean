@@ -17,4 +17,7 @@ router.get('/', (req, res) => {
   });
 });
 
+// ==> Rota Principal de 'Funcionario':
+
+
 module.exports = router;

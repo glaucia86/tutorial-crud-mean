@@ -14,10 +14,13 @@ const funcionarioController = require('../controllers/funcionario.controller');
 
 // ==> Definindo as rotas do CRUD - Funcionario:
 
-// ==> Rota responsável por criar um novo Funcionário: (POST): localhost:8000/funcionario/create)
-router.post('/create', funcionarioController.create);
+// ==> Rota responsável por criar um novo Funcionário: (POST): localhost:8000/api/funcionario
+router.post('/funcionario', funcionarioController.create);
 
-// ==> Rota responsável por selecionar todos os Funcionarios: (GET): localhost:8000/funcionario/findAll
-router.get('/findAll', funcionarioController.findAll);
+// ==> Rota responsável por selecionar todos os Funcionarios: (GET): localhost:8000/api/funcionarios/
+router.get('/funcionarios', funcionarioController.findAll);
+
+// ==> Rota responsável por selecionar 'Funcionario' pelo 'Id': (GET): localhost:8000/api/funcionario/:id
+router.get('/funcionario/:id', funcionarioController.findById);
 
 module.exports = router;
