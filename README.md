@@ -60,7 +60,7 @@ Os dados do Funcionário consiste em:
 - [Aula 17 - Atualização do v.7 para v.8 do Angular CLI](https://youtu.be/seJliDMpRd0)
 - [Aula 18 - Criação das Connections Strings na api: MongoDb & CosmosDb](https://youtu.be/LEXJK983WTM)
 - [Aula 19 - Desenvolvimento das Rotas da api 'Funcionario'](https://youtu.be/FQP4a_lzDck)
-- [Aula 20 - Desenvolvimento da Rota 'POST' da api]()
+- [Aula 20 - Desenvolvimento da Rota 'POST' da api](https://youtu.be/Sg62scoF-0U)
 - [Aula 21 - Em Breve]()
 - [Aula 22 - Em Breve]()
 - [Aula 23 - Em Breve]()
