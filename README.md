@@ -1,4 +1,4 @@
-# Tutorial CRUD MEAN com Angular 8 & Azure App Service by Glaucia Lemos
+# Tutorial CRUD MEAN com Angular 8 & Azure by Glaucia Lemos
 
 [![Tutorial-MEAN.jpg](https://i.postimg.cc/d1nGG2Bg/Tutorial-MEAN.jpg)](https://postimg.cc/njjsJQN1)
 
@@ -61,7 +61,7 @@ Os dados do Funcionário consiste em:
 - [Aula 18 - Criação das Connections Strings na api: MongoDb & CosmosDb](https://youtu.be/LEXJK983WTM)
 - [Aula 19 - Desenvolvimento das Rotas da api 'Funcionario'](https://youtu.be/FQP4a_lzDck)
 - [Aula 20 - Desenvolvimento da Rota 'POST' da api](https://youtu.be/Sg62scoF-0U)
-- [Aula 21 - Em Breve]()
+- [Aula 21 - Desenvolvimento da Rota 'GET' da api](https://youtu.be/x4V2Q6uGfEI)
 - [Aula 22 - Em Breve]()
 - [Aula 23 - Em Breve]()
 - [Aula 24 - Em Breve]()

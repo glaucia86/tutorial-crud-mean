@@ -17,4 +17,7 @@ const funcionarioController = require('../controllers/funcionario.controller');
 // ==> Rota responsável por criar um novo Funcionário: (POST): localhost:8000/funcionario/create)
 router.post('/create', funcionarioController.create);
 
+// ==> Rota responsável por selecionar todos os Funcionarios: (GET): localhost:8000/funcionario/findAll
+router.get('/findAll', funcionarioController.findAll);
+
 module.exports = router;
