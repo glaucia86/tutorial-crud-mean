@@ -26,4 +26,7 @@ router.get('/funcionario/:id', funcionarioController.findById);
 // ==> Rota responsável por atualizar 'Funcionario' pelo 'Id': (PUT): localhost: 8000/api/funcionario/:id
 router.put('/funcionario/:id', funcionarioController.update);
 
+// ==> Rota responsável por excluir 'Funcionário' pelo 'Id': (DELETE): localhost:8000/api/funcionario/:id
+router.delete('/funcionario/:id', funcionarioController.delete);
+
 module.exports = router;

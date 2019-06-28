@@ -14,11 +14,8 @@ export class FuncionarioService {
   // Método responsável por adicionar um novo 'Funcionário' btn 'Adicionar Funcionário':
   adicionarFuncionario(nomeFuncionario, cargo, numeroIdentificador) {
     const objFuncionario = {
-      // tslint:disable-next-line:object-literal-shorthand
       nomeFuncionario: nomeFuncionario,
-      // tslint:disable-next-line:object-literal-shorthand
       cargo: cargo,
-      // tslint:disable-next-line:object-literal-shorthand
       numeroIdentificador: numeroIdentificador
     };
 

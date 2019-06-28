@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Arquivo: src/controllers/funcionario.controller.js
  * Descrição: arquivo responsável pelo CRUD da classe 'Funcionário'
@@ -83,5 +84,23 @@ exports.update = (req, res) => {
       }
 
       res.status(500).send({ message: `Erro ao atualizar os dados do(a) Funcionário(a) ${req.params.id}` });
+    });
+};
+
+// ==> Método responsável por excluir 'Funcionário' pelo 'Id':
+exports.delete = (req, res) => {
+  Funcionario.findByIdAndDelete(req.params.id)
+    .then((funcionario) => {
+      if (!funcionario) {
+        return res.status(404).send({ message: `Id do Funcionário(a) não encontrado(a) ${req.params.id}` });
+      }
+
+      res.status(200).send({ message: 'Funcionário(a) excluído com sucesso!', funcionario });
+    }).catch((err) => {
+      if (err.kind === 'ObjectId') {
+        return res.status(404).send({ message: `Id do Funcionário(a) não encontrado ${req.params.id}` });
+      }
+
+      return res.status(500).send({ message: `Erro ao excluir Funcionário(a) ${req.params.id}` });
     });
 };
