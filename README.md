@@ -125,7 +125,7 @@ Executar os passos abaixo:
 ```
 
 ```
-> npm install -g @angular/cli?
+> npm install -g @angular/cli
 ``` 
 
 2) Porém, se executou os comandos acima e não resolveu o problema, tenta executar os seguintes comandos abaixo:
