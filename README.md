@@ -1,4 +1,4 @@
-# Tutorial CRUD MEAN com Angular 8 & Azure by Glaucia Lemos
+# Tutorial CRUD MEAN com Angular 8 com Azure by Glaucia Lemos
 
 [![Tutorial-MEAN.jpg](https://i.postimg.cc/d1nGG2Bg/Tutorial-MEAN.jpg)](https://postimg.cc/njjsJQN1)
 
