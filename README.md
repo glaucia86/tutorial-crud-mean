@@ -65,12 +65,20 @@ Os dados do Funcionário consiste em:
 - [Aula 22 - Desenvolvimento da Rota 'GetById' da api](https://youtu.be/8IMAVkDxGoE)
 - [Aula 23 - Desenvolvimento da Rota 'Update' da api](https://youtu.be/xRQI_jDCMVU)
 - [Aula 24 - Desenvolvimento da Rota 'Delete' da api](https://youtu.be/ilrLmdslfyM)
-
-### Módulo 3 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
 - [Aula 25 - Em Breve]()
 - [Aula 26 - Em Breve]()
+
+### Módulo 3 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
+
 - [Aula 27 - Em Breve]()
 - [Aula 28 - Em Breve]()
+- [Aula 29 - Em Breve]()
+- [Aula 30 - Em Breve]()
+- [Aula 31 - Em Breve]()
+- [Aula 32 - Em Breve]()
+- [Aula 33 - Em Breve]()
+- [Aula 34 - Em Breve]()
+- [Aula 35 - Em Breve]()
 
 ## Executando a Aplicação Localmente ❗️
 
