@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Arquivo: routes/funcionarioRoute.js
  * Descrição: arquivo responsável pelas rotas da api relacionado ao Funcionário.
@@ -7,9 +8,7 @@
 
 // ==> Aqui que vai conter as rotas do HTTP da api - funcionário
 
-const express = require('express');
-
-const router = express.Router();
+const router = require('express-promise-router')();
 const funcionarioController = require('../controllers/funcionario.controller');
 
 // ==> Definindo as rotas do CRUD - Funcionario:
