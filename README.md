@@ -65,7 +65,7 @@ Os dados do Funcionário consiste em:
 - [Aula 22 - Desenvolvimento da Rota 'GetById' da api](https://youtu.be/8IMAVkDxGoE)
 - [Aula 23 - Desenvolvimento da Rota 'Update' da api](https://youtu.be/xRQI_jDCMVU)
 - [Aula 24 - Desenvolvimento da Rota 'Delete' da api](https://youtu.be/ilrLmdslfyM)
-- [Aula 25 - Em Breve]()
+- [Aula 25 - Refatoramento de código Promise pra Async e Await do arquivo 'funcionario.controller.js'](https://youtu.be/QQrG45Hk6X8)
 - [Aula 26 - Em Breve]()
 
 ### Módulo 3 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
