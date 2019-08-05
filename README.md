@@ -66,9 +66,9 @@ Os dados do Funcionário consiste em:
 - [Aula 23 - Desenvolvimento da Rota 'Update' da api](https://youtu.be/xRQI_jDCMVU)
 - [Aula 24 - Desenvolvimento da Rota 'Delete' da api](https://youtu.be/ilrLmdslfyM)
 - [Aula 25 - Refatoramento de código Promise pra Async e Await do arquivo 'funcionario.controller.js'](https://youtu.be/QQrG45Hk6X8)
-- [Aula 26 - Em Breve]()
+- [Aula 26 - Continuação: Refatoramento de código Promise pra Async e Await do arquivo 'funcionario.controller.js'](https://youtu.be/y13-bHLXvdQ)
 
-### Módulo 3 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
+### Módulo 3 - Integração do Back-End com o Front-End (Em Breve)
 
 - [Aula 27 - Em Breve]()
 - [Aula 28 - Em Breve]()
@@ -77,8 +77,16 @@ Os dados do Funcionário consiste em:
 - [Aula 31 - Em Breve]()
 - [Aula 32 - Em Breve]()
 - [Aula 33 - Em Breve]()
+
+### Módulo 4 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
+
 - [Aula 34 - Em Breve]()
 - [Aula 35 - Em Breve]()
+- [Aula 36 - Em Breve]()
+- [Aula 37 - Em Breve]()
+- [Aula 38 - Em Breve]()
+- [Aula 39 - Em Breve]()
+- [Aula 40 - Em Breve]()
 
 ## Executando a Aplicação Localmente ❗️
 
