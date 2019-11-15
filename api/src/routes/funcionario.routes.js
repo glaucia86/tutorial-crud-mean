@@ -13,19 +13,19 @@ const funcionarioController = require('../controllers/funcionario.controller');
 
 // ==> Definindo as rotas do CRUD - Funcionario:
 
-// ==> Rota responsável por criar um novo Funcionário: (POST): localhost:8000/api/funcionario
-router.post('/funcionario', funcionarioController.create);
+// ==> Rota responsável por criar um novo Funcionário: (POST): localhost:8000/api/funcionarios
+router.post('/funcionarios', funcionarioController.create);
 
 // ==> Rota responsável por selecionar todos os Funcionarios: (GET): localhost:8000/api/funcionarios/
 router.get('/funcionarios', funcionarioController.findAll);
 
-// ==> Rota responsável por selecionar 'Funcionario' pelo 'Id': (GET): localhost:8000/api/funcionario/:id
-router.get('/funcionario/:id', funcionarioController.findById);
+// ==> Rota responsável por selecionar 'Funcionario' pelo 'Id': (GET): localhost:8000/api/funcionarios/:id
+router.get('/funcionarios/:id', funcionarioController.findById);
 
-// ==> Rota responsável por atualizar 'Funcionario' pelo 'Id': (PUT): localhost: 8000/api/funcionario/:id
-router.put('/funcionario/:id', funcionarioController.update);
+// ==> Rota responsável por atualizar 'Funcionario' pelo 'Id': (PUT): localhost: 8000/api/funcionarios/:id
+router.put('/funcionarios/:id', funcionarioController.update);
 
-// ==> Rota responsável por excluir 'Funcionário' pelo 'Id': (DELETE): localhost:8000/api/funcionario/:id
-router.delete('/funcionario/:id', funcionarioController.delete);
+// ==> Rota responsável por excluir 'Funcionário' pelo 'Id': (DELETE): localhost:8000/api/funcionarios/:id
+router.delete('/funcionarios/:id', funcionarioController.delete);
 
 module.exports = router;

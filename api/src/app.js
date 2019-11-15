@@ -14,7 +14,8 @@ const cors = require('cors');
 const app = express();
 
 // Importar o arquivo: 'database.js'
-const localDatabase = require('./config/database');
+const localDatabase = require('./config/database'); // ==> persistencia de maneira local: MongoDb
+// const databaseCosmosDb = require('./config/databaseCosmosDb'); // ==> persistencia de maneira nuvem: CosmosDb
 
 mongoose.Promise = global.Promise;
 
@@ -27,7 +28,6 @@ mongoose.connect(localDatabase.local.localUrl, { useNewUrlParser: true }).then((
 });
 
 // ==> Rotas
-const index = require('./routes/index');
 const funcionarioRoute = require('./routes/funcionario.routes');
 
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -36,7 +36,6 @@ app.use(bodyParser.json({ type: 'application/vnd.api+json' }));
 app.use(morgan('dev'));
 app.use(cors());
 
-app.use('/api', index);
 app.use('/api/', funcionarioRoute);
 
 module.exports = app;
