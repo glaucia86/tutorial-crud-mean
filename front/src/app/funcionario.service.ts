@@ -7,21 +7,34 @@ import { HttpClient } from '@angular/common/http';
 
 export class FuncionarioService {
 
-  uri = '/funcionario';
+  // ==> Uri da api (Back-End)
+  uri = 'http://localhost:8000/api';
 
   constructor(private http: HttpClient) { }
 
   // Método responsável por adicionar um novo 'Funcionário' btn 'Adicionar Funcionário':
   adicionarFuncionario(nomeFuncionario, cargo, numeroIdentificador) {
     const objFuncionario = {
-      nomeFuncionario: nomeFuncionario,
-      cargo: cargo,
-      numeroIdentificador: numeroIdentificador
+      nomeFuncionario,
+      cargo,
+      numeroIdentificador
     };
+    console.log(objFuncionario);
 
-    console.log(objFuncionario); // nomeFuncionario: 'Glaucia Lemos' cargo: 'Desenvolvedora' numeroIdentificador: 123
-    this.http.post(`${this.uri}/add`, objFuncionario)
-      .subscribe(res => console.log('Ok'));
+    // ==> (POST - URL no Back-End:): http://localhost:8000/api/funcionarios
+    this
+      .http
+      .post(`${this.uri}/funcionarios`, objFuncionario)
+      .subscribe(res => console.log('Feito'));
+  }
 
+  /**
+   * Método responsável por selecionar todos os 'Funcionários'
+   */
+  getFuncionarios() {
+        // ==> (GET - Url no Back-End): http://localhost:8000/api/funcionarios
+        return this
+          .http
+          .get(`${this.uri}/funcionarios`);
   }
 }

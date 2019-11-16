@@ -1,3 +1,29 @@
-<p>
-  Página Listar Funcionários
-</p>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <td><b>Nome do(a) Funcionário(a)</b></td>
+      <td align="center"><b>Cargo</b></td>
+      <td align="center"><b>Número Identificador</b></td>
+      <td align="center"><b>Ações</b></td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let funcionario of funcionarios">
+      <td>{{ funcionario.nomeFuncionario }}</td>
+      <td align="center">{{ funcionario.cargo }}</td>
+      <td align="center">{{ funcionario.numeroIdentificador }}</td>
+      <td align="center"></td>
+      <td align="center">
+        <a [routerLink]="['/funcionario', funcionario._id]" class="btn btn-success">
+          <fa name="edit"></fa> Editar
+        </a>
+      </td>
+      <td align="center">
+        <button (click)="excluirFuncionario(funcionario._id)" class="btn btn-danger">
+          <fa name="trash"></fa> Excluir
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>

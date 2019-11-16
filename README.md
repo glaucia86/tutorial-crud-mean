@@ -71,8 +71,8 @@ Os dados do Funcionário consiste em:
 
 ### Módulo 3 - Integração do Back-End com o Front-End (Em Breve)
 
-- [Aula 27 - Criando o Front-End(HTML): Listar Funcionarios]()
-- [Aula 28 - Integração do Back ao Front: Listar Funcionarios]()
+- [Aula 27 - Criando o Front-End(HTML): Listar Funcionarios](https://youtu.be/wDhn9IRKkrw)
+- [Aula 28 - Integração do Back ao Front: Listar Funcionarios](https://youtu.be/po0HvSH1IIY)
 - [Aula 29 - Em Breve]()
 - [Aula 30 - Em Breve]()
 - [Aula 31 - Em Breve]()

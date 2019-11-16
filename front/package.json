@@ -26,6 +26,7 @@
     "ng2-slim-loading-bar": "^4.0.0",
     "rxjs": "~6.5.2",
     "rxjs-compat": "^6.5.2",
+    "sweetalert2": "^9.3.11",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
