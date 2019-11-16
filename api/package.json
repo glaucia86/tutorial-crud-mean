@@ -35,7 +35,6 @@
     "nodemon": "^1.19.1"
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "eslint-friendly-formatter": "^4.0.1",
     "eslint-plugin-html": "^5.0.5",

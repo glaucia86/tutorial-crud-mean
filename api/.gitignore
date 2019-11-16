@@ -1,8 +1,13 @@
 build/
+
 # Commonly ignored Node.js files
 node_modules/
 npm-debug.log
 .npm/
+
+# lock
+package-lock.json
+yarn.lock
 
 # OSX system files, the bane of our existence
 .DS_Store
