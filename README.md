@@ -67,16 +67,18 @@ Os dados do Funcionário consiste em:
 - [Aula 24 - Desenvolvimento da Rota 'Delete' da api](https://youtu.be/ilrLmdslfyM)
 - [Aula 25 - Refatoramento de código Promise pra Async e Await do arquivo 'funcionario.controller.js'](https://youtu.be/QQrG45Hk6X8)
 - [Aula 26 - Continuação: Refatoramento de código Promise pra Async e Await do arquivo 'funcionario.controller.js'](https://youtu.be/y13-bHLXvdQ)
+- [Aula 26.1 - Continuação: Alterações significativas na Api'](https://youtu.be/3HdOw1L3lpA)
 
 ### Módulo 3 - Integração do Back-End com o Front-End (Em Breve)
 
-- [Aula 27 - Em Breve]()
-- [Aula 28 - Em Breve]()
+- [Aula 27 - Criando o Front-End(HTML): Listar Funcionarios]()
+- [Aula 28 - Integração do Back ao Front: Listar Funcionarios]()
 - [Aula 29 - Em Breve]()
 - [Aula 30 - Em Breve]()
 - [Aula 31 - Em Breve]()
 - [Aula 32 - Em Breve]()
 - [Aula 33 - Em Breve]()
+- [Aula 34 - Em Breve]()
 
 ### Módulo 4 - Hospedagem & Deploy da Aplicação no Azure (Em Breve)
 
